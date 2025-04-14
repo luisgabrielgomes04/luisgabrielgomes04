@@ -5,10 +5,10 @@
 I specialize in building scalable web and mobile applications. With over [X] years of experience in the tech industry, I have developed expertise in React Native, Node.js, Next.js, Angular, and REST APIs. 
 
 ### 🚀 Technologies & Skills:
-- **Frontend:** React Native, Next.js, Angular
+- **Frontend:** React Native, Next.js, Angular, Vue
 - **Backend:** Node.js, REST APIs
-- **Databases:** [Mention any DBs you use like MongoDB, PostgreSQL, etc.]
-- **Version Control:** Git, GitHub
+- **Databases:** MongoDB, PostgreSQL, MySQL, SQL Server
+- **Version Control:** Git, GitHub, Jira, Bitbucket
 - **Deployment:** Docker, AWS, Heroku, etc.
 - **CI/CD:** Jenkins, GitLab CI
 
@@ -21,7 +21,7 @@ I have earned several certifications in the following areas:
 - [REST API Certification](https://www.hackerrank.com/certificates/9d70a334f3c7)
 
 ### 💻 What I do:
-- Full-stack web and mobile application development
+- Full-stack mobile and web application development
 - Building RESTful APIs and microservices
 - Collaborative work using agile methodologies
 
