@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Luis Gabriel 👋
 
-<!--
-**luisgabrielgomes04/luisgabrielgomes04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Full Stack Developer
 
-Here are some ideas to get you started:
+I specialize in building scalable web and mobile applications. With over [X] years of experience in the tech industry, I have developed expertise in React Native, Node.js, Next.js, Angular, and REST APIs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Skills:
+- **Frontend:** React Native, Next.js, Angular
+- **Backend:** Node.js, REST APIs
+- **Databases:** [Mention any DBs you use like MongoDB, PostgreSQL, etc.]
+- **Version Control:** Git, GitHub
+- **Deployment:** Docker, AWS, Heroku, etc.
+- **CI/CD:** Jenkins, GitLab CI
+
+### 📜 Certifications
+I have earned several certifications in the following areas:
+- [React Native Certification](https://www.hackerrank.com/certificates/44d7fe975ac8)
+- [Node.js Certification](https://www.hackerrank.com/certificates/8f1320429ad9)
+- [Next.js Certification](https://www.hackerrank.com/certificates/a17b4d826075)
+- [Angular Certification](https://www.hackerrank.com/certificates/0b942adf526a)
+- [REST API Certification](https://www.hackerrank.com/certificates/9d70a334f3c7)
+
+### 💻 What I do:
+- Full-stack web and mobile application development
+- Building RESTful APIs and microservices
+- Collaborative work using agile methodologies
+
+Feel free to check out my repositories or reach out if you have any questions or exciting opportunities.  
+Let’s build something amazing together! 🚀
+
+[Email Me](mailto:luisgabrielgomes04@gmail.com)
