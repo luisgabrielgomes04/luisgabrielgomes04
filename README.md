@@ -2,7 +2,7 @@
 
 ## Senior Full Stack Developer
 
-I specialize in building scalable web and mobile applications. With over [X] years of experience in the tech industry, I have developed expertise in React Native, Node.js, Next.js, Angular, and REST APIs. 
+I specialize in building scalable web and mobile applications. With over 5 years of experience in the tech industry, I have developed expertise in React Native, Node.js, Next.js, Angular, and REST APIs. 
 
 ### 🚀 Technologies & Skills:
 - **Frontend:** React Native, Next.js, Angular, Vue
