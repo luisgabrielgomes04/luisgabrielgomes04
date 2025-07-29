@@ -6,7 +6,7 @@ I specialize in building scalable web and mobile applications. With over 5 years
 
 ### 🚀 Technologies & Skills:
 - **Frontend:** React Native, Next.js, Angular, Vue
-- **Backend:** Node.js, REST APIs
+- **Backend:** Node.js, Nest.js, REST APIs
 - **Databases:** MongoDB, PostgreSQL, MySQL, SQL Server
 - **Version Control:** Git, GitHub, Jira, Bitbucket
 - **Deployment:** Docker, AWS, Heroku, etc.
